@@ -4,7 +4,7 @@
 - 💬 Ask me about web development
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Abhinav Spotify Playing" width="350" />](https://open.spotify.com/user/31ibzrzpb64w5iqdilld5e46lbm4)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Abhinav Spotify Playing" width="350" />](https://open.spotify.com/user/31mrvu3zknawz6ydckchmpugpeli)
 
 [![Abhinav's github stats](https://github-readme-stats.vercel.app/api?username=matrix101A)](https://github.com/matrix101A/github-readme-stats)
 
