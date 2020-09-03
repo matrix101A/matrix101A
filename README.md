@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on my e-commerce website
+- 🔭 I’m currently working on my blog  website
 - 🌱 I’m currently learning everything
 - 💬 Ask me about web development
 
