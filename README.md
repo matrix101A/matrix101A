@@ -6,9 +6,8 @@
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Abhinav Spotify Playing" width="350" />](https://open.spotify.com/user/31mrvu3zknawz6ydckchmpugpeli)
 
-![Abhinav's github stats](https://github-readme-stats.vercel.app/api?username=matrix101A&show_icons=true&theme=radical)
+![Abhinav's github stats](https://github-readme-stats.vercel.app/api?username=matrix101A&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matrix101A&layout=compact)](https://github.com/matrix101A/github-readme-stats)
 <!--
 **matrix101A/matrix101A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
