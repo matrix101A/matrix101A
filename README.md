@@ -1,7 +1,8 @@
 ### Hi there 👋
-- 🔭 I’m currently working on my blog  website
-- 🌱 I’m currently learning everything
+- 🔭 I’m currently working on my backend development 
+- 🌱 I’m currently learning Node js 
 - 💬 Ask me about web development
+- 👯 I’m looking to collaborate on anything 
 
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Abhinav Spotify Playing" width="350" />](https://open.spotify.com/user/31mrvu3zknawz6ydckchmpugpeli)
